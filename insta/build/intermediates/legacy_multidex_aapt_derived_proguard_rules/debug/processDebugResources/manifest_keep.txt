@@ -1,0 +1,2 @@
+# Referenced at /home/vaibhav/AndroidStudioProjects/Insta/insta/build/intermediates/merged_manifests/debug/AndroidManifest.xml:30
+-keep class com.parse.starter.StarterApplication { <init>(); }
